@@ -38,6 +38,7 @@ Here I use Jupyter Notebook to run python and this are the library I used
 pip install imapclient, pandas
 ```
 2. Import Libraries & Set Up connection to Database:
+Here I use some yaml file to keep my db account secret.
 ```python
 import os, email, re
 import imaplib
