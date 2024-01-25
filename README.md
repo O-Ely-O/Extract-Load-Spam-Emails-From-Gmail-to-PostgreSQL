@@ -173,3 +173,5 @@ def execute_many(conn, df, table):
 # Run the execute_many strategy
 execute_many(conn, df, 'spam_emails')
 ```
+## Additional
+you can use Apache Airflow to run this script based on schedule
