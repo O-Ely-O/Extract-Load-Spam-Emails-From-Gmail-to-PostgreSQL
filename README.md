@@ -1,5 +1,5 @@
-# Perform ETL(Extract Transform Load) on Emails(Inbox, All Mail, Spam, Junk, etc.,) From Gmail --> PostgreSQL (For Analysis)
-This simple project gives you the idea on how to perform ETL operation in your Mail Server and may be use the gathered data for further use e.x., Machine Learning like text classification, Word2Vec Conversion and so on. Here I extracted emails coming from my Spam Folder (msg_ID, sender_email, subject, datetime) you can also extract any folder like Inbox, Junk, etc., 
+# Data Extraction From Mail Server + PostgreSQL (For Analysis)
+This simple project gives you the idea on how to Extract Transform and Load the data from your Mail Server all the way to your Database (postgre) and use the data for Machine Learning activity like text classification, Word2Vec Conversion and so on. Here I extracted emails coming from my Spam Folder (msg_ID, sender_email, subject, datetime) you can also extract any folder like Inbox, Junk, etc., 
 
 ## System Requirements:
 
